@@ -1,0 +1,54 @@
+.book{
+    background-color: black;
+    height: 80vh;
+}
+
+.card{
+    left: 80px;
+    top: 80px;
+    width: 5p;
+   
+   
+}
+.card-body{
+    height: 430px;
+    margin-bottom: 10px;
+    /* background-color: yellow; */
+
+}
+
+.date{
+    width: 50px;
+}
+#datep{
+    padding: 1px 92px;
+    margin: 22px;
+}
+#dated{
+    padding: 1px 92px;
+    margin: 33px;
+}
+
+#btn{
+    margin: 2px 5px;
+    text-align: center;
+    justify-content: center;
+    padding: 0px 1px;
+    margin: -5px 238px;
+}
+
+.image{
+    width: 71%;
+    height: 50%;
+    margin: -324px 792px;
+}
+
+.image img{
+    width: 59%;
+    left: 59px;
+}
+
+
+#exampleFormControlTextarea1{
+    height: 72px;
+}
